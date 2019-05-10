@@ -1,16 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 the git will create the local repository on the system.and it is going to tell Git to initialize the project to get everything ready to start doing its tracking.
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repositor.What value do you think it offers?
 
 if we want to add multiple files of code. but we have perform only one logical change in multiple file then we can put that multiple file in staging area and then commit at once into the repository. we cannot do it directly from working directory.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+if i am working on one logical change in multiple files then i can pass those file into the staging area and then commit as all the file in the staging area will represent one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+if i want to try some new thing but i dont want to disturb main branch then i can use branches for that. it help me to keep my original content as it is. and i can try out new thing without worring.
+
 
 How do the diagrams help you visualize the branch structure?
 
