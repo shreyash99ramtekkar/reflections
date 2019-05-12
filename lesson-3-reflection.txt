@@ -5,8 +5,8 @@ have made to my project.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
-
+if i am working on a feature on local git repository but since it is not complete i have not push it  to the remote.when i again log on my sytem to work on that feature then if git is automatically pulling changes then my new feature can be deleted. thats why pulling changes manually from remote is better.
+    
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
