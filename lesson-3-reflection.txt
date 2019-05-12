@@ -10,7 +10,11 @@ if i am working on a feature on local git repository but since it is not complet
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork: this is used to create the clone of the repository on the git hub server. i will use it when i want to modify some project build by other. so they can get the credit and i can also modify it.
+
+Clones: i will use this when i have to copy a repository. form a url. 
+
+Branches: branches are created when we have to try out the new feature so that master brach code will not be get affected.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
