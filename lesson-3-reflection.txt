@@ -19,12 +19,12 @@ Branches: branches are created when we have to try out the new feature so that m
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    if we dont have the copy of the last stage and we are updating our local repository then it can cause problem in merging.like merging conflic so it is better to keep a copy of state of the remote stored locally.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+	if i want to collaborate without using github i have to waste my too much time. and i have to stay connected with the other collaborator to see what changes they made and then bring that code through pendrive to myself and then add it into my code. resolve any conflid . if the collaborator is working on different feature then it makes us hard to merge both code.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
